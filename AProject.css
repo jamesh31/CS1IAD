@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    color: rgb(7, 0, 54);
+}
+
+.Outline {
+    border: 2px solid rgb(7, 0, 54);
+    border-radius: 12px;
+    margin: 30px;
+}
+
+#MainBody {
+    margin: 30px;
+    text-align: center;
+}
+
+#MainTitle {
+    font-size: 65px;
+    font-style: italic;
+}
+
+#Login {
+    vertical-align: top;
+    display: inline-block;
+    width: 35%;
+    margin: 30px;
+}
+
+#LoginForm {
+    font-size: 20px;
+}
+
+#SignupPrompt {
+    vertical-align: top;
+    display: inline-block;
+    width: 35%;
+    margin: 30px;
+}
+
+#SignupForm {
+    font-size: 20px;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+}
